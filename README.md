@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<h1 align="center">👋 Hi, I'm Mohamed Zaher</h1>
+<h3 align="center">💻 Full-Stack Developer | .NET Developer</h3>
+
 <br>
 
 # Hi, I'm Mohamed Zaher 👋
