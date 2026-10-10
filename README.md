@@ -1,7 +1,13 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm Mohamed Zaher</h1>
-<h3 align="center">💻 Full-Stack Developer | .NET Developer</h3>
+<div align="center" width="50">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Zaher;Full-Stack+Developer;ASP.NET+Core+Developer" alt="Hi, I'm Mohamed Zaher" />
+</h1>
+
+</div>
+
 
 <br>
 
